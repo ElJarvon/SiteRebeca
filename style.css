@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+body{
+    overflow-x: hidden;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.imagens{
+    position: relative;
+    left: 10%;
+    margin-top: 2%;
+}
+
+.textos{
+    position: relative;
+    left: 32%;
+    transform: translateY(-500px);
+}
+
+.musica{
+    position: relative;
+    left: 40%;
+    transform: translateY(-650px);
+}
